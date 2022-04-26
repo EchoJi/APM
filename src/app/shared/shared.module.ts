@@ -1,5 +1,5 @@
 import { FormsModule } from '@angular/forms';
-import { StartComponent } from './start.component';
+import { StartComponent } from './star.component';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
